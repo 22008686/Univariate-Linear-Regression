@@ -24,8 +24,8 @@ least squares.
 ## Program
 ```
 Program for Univariate linear regression using the least squares method.
-Developed by: Anto Richard.S
-RegisterNumber: 21001221
+Developed by: M.PAVITHRA
+RegisterNumber: 22008686
 '''
 import numpy as np
 import matplotlib.pyplot as plt
