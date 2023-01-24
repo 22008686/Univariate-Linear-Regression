@@ -53,7 +53,8 @@ plt.show()
 ```
 ## Output
 
-![](./univariate.png)
+![](./univariate1.png)
+![](./univariate2.png)
 
 ## Result
 
